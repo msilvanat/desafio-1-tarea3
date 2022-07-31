@@ -1,5 +1,5 @@
 # Desafío 3
-Instrucciones
+# Instrucciones:
 Crear un repositorio con los archivos de la carpeta 03/
 
 Crear una rama que siga las siguientes reglas Recomendaciones para el manejo de ramas, importante cada uno tiene que contar con su rama propia
